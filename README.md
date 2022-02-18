@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AchieverCheech
-- 👀 I’m interested in blockchain development and cryptocurrencies. I also collect unique, often older books, reselling them from time to time.
-- 🌱 I’m currently learning everything about EVM, Solidity, smart contracts, programming/development and building dApps!
-- 💞️ I’m looking to collaborate on building out a secure, compliant crypto-marketplace, accepting alt-coins for a very specific type of merchandise (books!)
+- 👋 Hi, I’m Cheech [@AchieverCheech]
+- 👀 I’m interested in blockchain development and cryptocurrencies. I also collect unique, oldq books, reselling them from time to time.
+- 🌱 I’m currently learning about Stellar, Etherium, smart contracts, tokenomics, Web3 dev /ecosystems and building dApps!
+- 💞️ I’m building out a secure, compliant crypto-marketplace, with use of TOKEN OR NFT for a very specific type of merchandise (books!)
 - 📫 How to reach me - bookbaz@pm.me /or/ achievercheech@protonmail.com
 
 <!---
